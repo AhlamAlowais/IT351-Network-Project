@@ -4,7 +4,10 @@ IP Address Configuration and RIP Version 2 Setup
    
 Figure 1: Cisco Packet Tracer
 <img width="1440" height="900" alt="Screenshot 2026-07-27 at 4 32 05 PM" src="https://github.com/user-attachments/assets/06bb39c4-7854-4739-a24d-04cfb9e3da67" />
-￼
+
+Cisco Packet Tracer was used to design configure and test the network before implementation.  
+The objective of using Packet Tracer in this project was to simulate the network environment, configure IP addressing and RIP Version 2, verify connectivity and identify configuration errors in a safe virtual environment Its advantages include easy network simulation, troubleshooting and testing without requiring physical networking devices.
+
 During this period, I configured the IP addresses for the router interfaces in Cisco Packet Tracer and verified that all interfaces were operating correctly.
 
 <img width="562" height="253" alt="Screenshot 2026-07-27 at 8 55 41 PM" src="https://github.com/user-attachments/assets/c5b85c22-5e98-4096-b0cd-5b5860401523" />
